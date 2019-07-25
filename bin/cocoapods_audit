@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require 'cocoapods_audit'
+
+audit = Auditor.new
+audit.run # TODO: delete this because it's useless?

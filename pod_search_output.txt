@@ -1,0 +1,23 @@
+-> Rome (0.23.1.61)
+   A cache tool for Carthage
+   pod 'Rome', '~> 0.23.1.61'
+   - Homepage: https://github.com/blender/Rome
+   - Source:   https://github.com/blender/Rome/releases/download/v0.23.1.61/rome.zip
+   - Versions: 0.23.1.61, 0.23.0.60, 0.22.0.59, 0.21.0.58, 0.20.0.56, 0.19.0.55,
+   0.18.1.53, 0.18.0.51, 0.17.2.50, 0.17.1.49, 0.17.0.48, 0.16.0.46, 0.15.0.43 [master
+   repo]
+
+-> RomensFramework (0.2.2)
+   Romens iOS SDK
+   pod 'RomensFramework', '~> 0.2.2'
+   - Homepage: http://www.romens.cn/
+   - Source:   https://github.com/damizhou/RomensFramework.git
+   - Versions: 0.2.2, 0.1.9, 0.1.8, 0.1.7, 0.1.6, 0.1.2 [master repo]
+
+-> chrome50_libjingle_peerconnection (1.0.50)
+   WebRTC Video Streaming Peer Connection API's. An iOS WebRTC demo application hosted on
+   App Engine. Builds by Pristine.io
+   pod 'chrome50_libjingle_peerconnection', '~> 1.0.50'
+   - Homepage: https://github.com/pristineio/webrtc-build-scripts
+   - Source:   https://github.com/chamara-dev/gate_libjingle_peerconnection.git
+   - Versions: 1.0.50 [master repo]
